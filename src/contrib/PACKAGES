@@ -88,7 +88,7 @@ Depends: R (>= 3.5.0)
 Imports: data.table, dplyr, lubridate, magrittr, purrr, stringr, glue
 Suggests: rmarkdown, knitr, testthat (>= 3.0.0), readxl
 License: MIT + file LICENSE
-MD5sum: d3acbd0b95d4d286babe4ac486958fac
+MD5sum: 57c474dee0b42a851903c48aecb1afb2
 NeedsCompilation: no
 
 Package: csutil
