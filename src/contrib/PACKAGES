@@ -6,7 +6,7 @@ Imports: data.table, magrittr, glue, pbs, dlnm, lubridate, mvmeta,
         progress, fhidata
 Suggests: testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 9f2848dff1a5906e70244e60a05990c7
+MD5sum: cd321c6cbd127403a4c2d13fb72bbe7b
 NeedsCompilation: no
 
 Package: covidnor
@@ -130,3 +130,120 @@ Suggests: testthat, knitr, rmarkdown, progressr, ggplot2, readxl,
 License: MIT + file LICENSE
 MD5sum: c214cf77f0447b7d68a3679ae6898084
 NeedsCompilation: no
+
+Package: sc
+Version: 8.0.3
+Depends: R (>= 4.1.0)
+Imports: data.table, crayon, DBI, dplyr, fhidata, fhiplot, foreach, fs,
+        future, glue, lubridate, magrittr, odbc, openssl, parallel,
+        pbmcapply, plnr (>= 2021.5.4), pool, processx, progress,
+        progressr, pryr, qs, R6, rlang, rstudioapi, spltidy, splutil,
+        stats, stringr, tidyr, uuid
+Suggests: testthat, knitr, usethis
+License: GPL-3 + file LICENSE
+MD5sum: 2d4da16e67471c5b1953bd977ac0b6af
+NeedsCompilation: no
+
+Package: splalert
+Version: 2022.7.28
+Depends: R (>= 3.3.0)
+Imports: data.table, magrittr, dplyr, ggplot2, glm2, spltidy, spltime,
+        stringr, lubridate, surveillance
+Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, splstyle,
+        spldata, splmaps, ggrepel, plnr
+License: MIT + file LICENSE
+MD5sum: c8ea006803774f8540cbba307f604ec6
+NeedsCompilation: no
+
+Package: spldata
+Version: 2022.7.20
+Depends: R (>= 3.5.0)
+Imports: data.table, stats, utils
+Suggests: testthat, broom, crayon, dplyr, forcats, fs, geojsonio,
+        ggplot2, glue, knitr, lubridate, mapproj, methods, ncdf4,
+        purrr, readxl, reshape2, rgeos, rmarkdown, rmapshaper,
+        rstudioapi, stringr, sp, sf, tidyr, zoo
+License: MIT + file LICENSE
+MD5sum: c5ed315b220087ee85e9ce2cbf01f296
+NeedsCompilation: no
+
+Package: spldb
+Version: 2022.10.4
+Depends: R (>= 3.3.0)
+Imports: data.table, magrittr, ggplot2
+Suggests: testthat, knitr, rmarkdown, rstudioapi, glue
+License: MIT + file LICENSE
+MD5sum: 5da93272e63977591a8e72af1cd16d07
+NeedsCompilation: no
+
+Package: splmaps
+Version: 2022.6.14
+Depends: R (>= 3.5.0)
+Imports: data.table, utils
+Suggests: testthat, knitr, rmarkdown, ggplot2, magrittr, ggrepel,
+        leaflet, sf, fhidata, spldata
+License: MIT + file LICENSE
+MD5sum: feeefc545c37c7b06ecacb8591183cf6
+NeedsCompilation: no
+
+Package: splshiny
+Version: 2022.2.28
+Depends: R (>= 3.3.0)
+Imports: data.table, magrittr, ggplot2, shiny, splstyle
+Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, spldata
+License: MIT + file LICENSE
+MD5sum: 2f386dfbd44346e41a7a305b92f2f9e4
+NeedsCompilation: no
+
+Package: splstyle
+Version: 2022.10.26
+Depends: R (>= 3.3.0)
+Imports: data.table, ggplot2, glue, huxtable, htmlTable, magrittr,
+        openxlsx, rstudioapi, stringi, stringr, scales, fhiplot
+Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, lemon, fhi,
+        fhidata, fhimaps, spltime
+License: MIT
+MD5sum: 075d4495552731e1d2832dc2438f7041
+NeedsCompilation: no
+
+Package: spltidy
+Version: 2022.6.16
+Depends: R (>= 3.3.0)
+Imports: data.table, magrittr, ggplot2, spldata, splstyle, spltime,
+        crayon, digest, stringr, methods, tidyr, qs, openssl
+Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, gt, dplyr,
+        purrr
+License: MIT + file LICENSE
+MD5sum: 0fb3b3bb48fcb96c6e7aa37c4f1f5b1f
+NeedsCompilation: no
+
+Package: spltime
+Version: 2022.4.21
+Depends: R (>= 3.5.0)
+Imports: data.table, dplyr, lubridate, magrittr, purrr, stringr, glue
+Suggests: rmarkdown, knitr, testthat (>= 3.0.0), readxl
+License: MIT + file LICENSE
+MD5sum: b02abcf2d7eaa4c34b215e9bfdf3abe5
+NeedsCompilation: no
+
+Package: splutil
+Version: 2022.6.20
+Depends: R (>= 3.3.0)
+Imports: data.table, magrittr, ggplot2
+Suggests: testthat, knitr, rmarkdown, rstudioapi, glue
+License: MIT + file LICENSE
+MD5sum: 2921531d7228b40d56ad1a057a3bdb78
+NeedsCompilation: no
+
+Package: spread
+Version: 2022.7.17
+Depends: R (>= 3.5.0)
+Imports: Rcpp (>= 0.9.4), RcppProgress (>= 0.1), data.table, ggplot2,
+        fhidata (>= 2019.1.23), stringr, readxl, matrixStats, zoo,
+        foreach, magrittr, stats, future.apply
+LinkingTo: Rcpp, RcppProgress
+Suggests: testthat, knitr, glue, rmarkdown, distcrete, HDInterval,
+        epitrix
+License: GPL-3
+MD5sum: b0cae0c9211341c95758157a03e21a72
+NeedsCompilation: yes
