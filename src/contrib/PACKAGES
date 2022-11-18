@@ -47,7 +47,7 @@ Depends: R (>= 3.3.0)
 Imports: data.table, magrittr, ggplot2, odbc, DBI
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue
 License: MIT + file LICENSE
-MD5sum: 13f4a340e63cb30ce79630f7f43be201
+MD5sum: 4dd3b14bd71360ca041a264fe0f12f1a
 NeedsCompilation: no
 
 Package: csmaps
