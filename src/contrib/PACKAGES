@@ -79,7 +79,7 @@ Imports: data.table, magrittr, ggplot2, spldata, splstyle, spltime,
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, gt, dplyr,
         purrr
 License: MIT + file LICENSE
-MD5sum: 0dff19c6318d2d3f57506b79b994887d
+MD5sum: 729858ee7a5f9c1068a6dd2eac0f2697
 NeedsCompilation: no
 
 Package: cstime
