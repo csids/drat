@@ -15,7 +15,7 @@ Depends: R (>= 3.3.0)
 Imports: data.table, magrittr, ggplot2
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue
 License: MIT + file LICENSE
-MD5sum: 875c7984d1f334e5496d86769a3e4722
+MD5sum: ec132bc8416bbb8c54237b2256abe779
 NeedsCompilation: no
 
 Package: csalert
