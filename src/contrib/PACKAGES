@@ -68,7 +68,7 @@ Imports: data.table, ggplot2, glue, huxtable, htmlTable, magrittr,
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, lemon, fhi,
         fhidata, fhimaps, spltime
 License: MIT
-MD5sum: 115a3ec5f7721836696a5e2013257304
+MD5sum: a72f4e7d68777cdd4b5682218fd8573d
 NeedsCompilation: no
 
 Package: cstidy
