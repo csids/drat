@@ -61,14 +61,14 @@ MD5sum: 6a889b1650f719ba07b21cbc8cdcc901
 NeedsCompilation: no
 
 Package: csstyle
-Version: 2022.11.18
+Version: 2022.11.21
 Depends: R (>= 3.3.0)
 Imports: data.table, ggplot2, glue, huxtable, htmlTable, magrittr,
         openxlsx, rstudioapi, stringi, stringr, scales, fhiplot
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, lemon, fhi,
         fhidata, fhimaps, spltime
 License: MIT
-MD5sum: f0376b72531d69925e9ea01fd6b240ae
+MD5sum: 115a3ec5f7721836696a5e2013257304
 NeedsCompilation: no
 
 Package: cstidy
