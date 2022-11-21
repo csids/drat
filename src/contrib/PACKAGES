@@ -38,7 +38,7 @@ Suggests: testthat, broom, crayon, dplyr, forcats, fs, geojsonio,
         methods, ncdf4, purrr, readxl, reshape2, rgeos, rmarkdown,
         rmapshaper, rstudioapi, stringr, sp, sf, tidyr, zoo
 License: MIT + file LICENSE
-MD5sum: 3da3dfaf5f46cb6584d76bc7be744dac
+MD5sum: 98fe4a59f4611a6f062dc7c29ae7be97
 NeedsCompilation: no
 
 Package: csdb
