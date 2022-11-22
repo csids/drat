@@ -97,7 +97,7 @@ Depends: R (>= 3.3.0)
 Imports: data.table, magrittr, ggplot2
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue
 License: MIT + file LICENSE
-MD5sum: f8780cadac304fae120c00793eb2794e
+MD5sum: 2650902b14bcbc72cfe92204b99694cb
 NeedsCompilation: no
 
 Package: nowcast
