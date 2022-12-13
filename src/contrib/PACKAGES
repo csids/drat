@@ -1,12 +1,12 @@
 Package: attrib
-Version: 2022.11.22
+Version: 2022.12.13
 Depends: R (>= 3.5.0)
 Imports: data.table, magrittr, glue, pbs, dlnm, lubridate, mvmeta,
         tsModel, stats, lme4, arm, tibble, stringr, ggplot2, utils,
         progress, csdata
 Suggests: testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 503e86ab4b6250a105bfb37f7e2e5133
+MD5sum: f9cce512a5b5ef3f6a80cbb5aba09e36
 NeedsCompilation: no
 
 Package: covidnor
