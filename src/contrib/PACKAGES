@@ -72,14 +72,14 @@ MD5sum: fa2135d23b980de6c9f37dec5d1360a5
 NeedsCompilation: no
 
 Package: cstidy
-Version: 2023.1.16
+Version: 2023.1.17
 Depends: R (>= 3.3.0)
 Imports: data.table, magrittr, ggplot2, csdata, csstyle, cstime,
         crayon, digest, stringr, methods, tidyr, qs, openssl
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, gt, dplyr,
         purrr
 License: MIT + file LICENSE
-MD5sum: dff805f2848efb79790e6c377ee23f18
+MD5sum: 168ddce17c028623a0ef46d03fd29dd3
 NeedsCompilation: no
 
 Package: cstime
