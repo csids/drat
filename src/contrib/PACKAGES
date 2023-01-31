@@ -51,13 +51,13 @@ MD5sum: e29dc65c0e5a3dd39f3e3636cc1db656
 NeedsCompilation: no
 
 Package: csmaps
-Version: 2022.12.16
+Version: 2023.1.31
 Depends: R (>= 3.5.0)
 Imports: data.table, utils
 Suggests: testthat, knitr, rmarkdown, ggplot2, magrittr, ggrepel,
         leaflet, sf, csdata
 License: MIT + file LICENSE
-MD5sum: 1f73caecda6aaedbb0c0ae9cd9a46d8b
+MD5sum: fba6aef3fc73f61ba79b1fce2cc9b975
 NeedsCompilation: no
 
 Package: csstyle
