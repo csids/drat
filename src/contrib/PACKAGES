@@ -30,7 +30,7 @@ MD5sum: 1d7f9c7198c0a718768b102bd4809905
 NeedsCompilation: no
 
 Package: csdata
-Version: 2022.12.16
+Version: 2023.1.31
 Depends: R (>= 3.5.0)
 Imports: data.table, stats, utils
 Suggests: testthat, broom, crayon, dplyr, forcats, fs, geojsonio,
@@ -38,7 +38,7 @@ Suggests: testthat, broom, crayon, dplyr, forcats, fs, geojsonio,
         methods, ncdf4, purrr, readxl, reshape2, rgeos, rmarkdown,
         rmapshaper, rstudioapi, stringr, sp, sf, tidyr, zoo
 License: MIT + file LICENSE
-MD5sum: ddfed863b73d687bf2201e6e6bfe6f15
+MD5sum: 7caa10584c72860eee4ed931b21a3f53
 NeedsCompilation: no
 
 Package: csdb
