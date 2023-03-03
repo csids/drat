@@ -163,14 +163,12 @@ NeedsCompilation: no
 Package: sc9
 Version: 2023.3.3
 Depends: R (>= 4.1.0)
-Imports: data.table, crayon, DBI, dplyr, fhidata, fhiplot, foreach, fs,
-        future, glue, lubridate, magrittr, odbc, openssl, parallel,
-        pbmcapply, plnr (>= 2021.5.4), pool, processx, progress,
-        progressr, pryr, qs, R6, rlang, rstudioapi, spltidy, splutil,
-        stats, stringr, tidyr, uuid
-Suggests: testthat, knitr, usethis
+Imports: csdb, data.table, dplyr, foreach, fs, glue, lubridate,
+        magrittr, openssl, plnr (>= 2021.5.4), processx, progressr, qs,
+        R6, rstudioapi, stats, stringr
+Suggests: testthat, knitr, usethis, rmarkdown
 License: GPL-3 + file LICENSE
-MD5sum: bec6f3816e937ab3b341b916787d66d1
+MD5sum: edd9f7aec283a82b5f3338fc86147179
 NeedsCompilation: no
 
 Package: splalert
