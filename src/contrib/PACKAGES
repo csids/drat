@@ -148,7 +148,7 @@ MD5sum: 2d4da16e67471c5b1953bd977ac0b6af
 NeedsCompilation: no
 
 Package: sc8
-Version: 2023.3.2
+Version: 2023.3.7
 Depends: R (>= 4.1.0)
 Imports: data.table, crayon, DBI, dplyr, fhidata, fhiplot, foreach, fs,
         future, glue, lubridate, magrittr, odbc, openssl, parallel,
@@ -157,7 +157,7 @@ Imports: data.table, crayon, DBI, dplyr, fhidata, fhiplot, foreach, fs,
         stats, stringr, tidyr, uuid
 Suggests: testthat, knitr, usethis
 License: GPL-3 + file LICENSE
-MD5sum: fa7efd058d795f52e2abfbdb181d4dd7
+MD5sum: f557ee93f57d69ac9974d9e2936f5132
 NeedsCompilation: no
 
 Package: sc9
