@@ -157,7 +157,7 @@ Imports: data.table, crayon, DBI, dplyr, fhidata, fhiplot, foreach, fs,
         stats, stringr, tidyr, uuid
 Suggests: testthat, knitr, usethis
 License: GPL-3 + file LICENSE
-MD5sum: f5336e89d3ed160b01890780de80a199
+MD5sum: f95f9fc2ddf8fa3162efb012cbdca3ef
 NeedsCompilation: no
 
 Package: sc9
