@@ -168,7 +168,7 @@ Imports: csdb, data.table, dplyr, fs, glue, lubridate, magrittr, plnr
         stringr
 Suggests: testthat, knitr, usethis, rmarkdown
 License: GPL-3 + file LICENSE
-MD5sum: 3170ccfa2b936fa749810fc51fa60a8b
+MD5sum: 8575e96579fc7ac61c35845b02e8572b
 NeedsCompilation: no
 
 Package: splalert
