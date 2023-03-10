@@ -80,7 +80,7 @@ Imports: data.table, magrittr, ggplot2, csdata, csstyle, cstime,
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, gt, dplyr,
         purrr
 License: MIT + file LICENSE
-MD5sum: 9e40894722852b3afd061fdb56716295
+MD5sum: 2903b270dfb5ba6f3e43ec0f015a23d3
 NeedsCompilation: no
 
 Package: cstime
