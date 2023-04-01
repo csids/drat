@@ -161,14 +161,14 @@ MD5sum: f95f9fc2ddf8fa3162efb012cbdca3ef
 NeedsCompilation: no
 
 Package: sc9
-Version: 2023.3.31
+Version: 2023.4.1
 Depends: R (>= 4.1.0)
 Imports: csdb, data.table, dplyr, fs, glue, lubridate, magrittr, plnr
         (>= 2021.5.4), processx, progressr, R6, rstudioapi, stats,
         stringr
 Suggests: testthat, knitr, usethis, rmarkdown, fhiplot
 License: GPL-3 + file LICENSE
-MD5sum: f890f1705c9114cf8b0b42b9e833bf76
+MD5sum: 1635576520ee11053ceb52c1216217f9
 NeedsCompilation: no
 
 Package: splalert
