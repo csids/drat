@@ -62,14 +62,14 @@ MD5sum: ac78b0960d478b486a5b115bc537df7e
 NeedsCompilation: no
 
 Package: csstyle
-Version: 2023.3.10
+Version: 2023.4.4
 Depends: R (>= 3.3.0)
 Imports: data.table, ggplot2, glue, huxtable, htmlTable, magrittr,
         openxlsx, rstudioapi, stringi, stringr, scales
 Suggests: testthat, knitr, rmarkdown, lemon, csdata, csmaps, cstime,
         plnr
 License: MIT + file LICENSE
-MD5sum: b05797d578f76ea35284f0bb14758f81
+MD5sum: 641379f48fc708752864a7f1b70b4602
 NeedsCompilation: no
 
 Package: cstidy
