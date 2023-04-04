@@ -94,12 +94,12 @@ MD5sum: 4da1a08439416feae6b88dc986cff8bf
 NeedsCompilation: no
 
 Package: csutil
-Version: 2023.3.10
+Version: 2023.4.4
 Depends: R (>= 3.3.0)
 Imports: data.table, magrittr, ggplot2
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue
 License: MIT + file LICENSE
-MD5sum: 82a3ca3d531a339ba0d3ff1c3e62473b
+MD5sum: eadb914cc94249482318e66c6cf119d1
 NeedsCompilation: no
 
 Package: nowcast
