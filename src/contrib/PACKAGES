@@ -16,7 +16,7 @@ Imports: data.table
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, magrittr,
         ggplot2
 License: MIT + file LICENSE
-MD5sum: 1192e74de4fad902e90e07f067ca193c
+MD5sum: c58caf6998faea2d069000272fd351ce
 NeedsCompilation: no
 
 Package: csalert
