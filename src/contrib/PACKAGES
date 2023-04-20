@@ -12,10 +12,11 @@ NeedsCompilation: no
 Package: covidnor
 Version: 2023.4.20
 Depends: R (>= 3.5.0)
-Imports: data.table, magrittr, ggplot2
-Suggests: testthat, knitr, rmarkdown, rstudioapi, glue
+Imports: data.table
+Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, magrittr,
+        ggplot2
 License: MIT + file LICENSE
-MD5sum: fa7fa224dcd33f874dd04b54720ae68a
+MD5sum: 1192e74de4fad902e90e07f067ca193c
 NeedsCompilation: no
 
 Package: csalert
