@@ -57,9 +57,9 @@ Version: 2023.5.22
 Depends: R (>= 3.5.0)
 Imports: data.table, utils
 Suggests: testthat, knitr, rmarkdown, ggplot2, magrittr, ggrepel,
-        leaflet, sf, csdata
+        leaflet, sf, csdata (>= 2023.5.22)
 License: MIT + file LICENSE
-MD5sum: 419987f578855e5e4a95d5ee788028bd
+MD5sum: b7af335364246b76afefe46721b37316
 NeedsCompilation: no
 
 Package: csstyle
