@@ -26,7 +26,7 @@ Imports: data.table, magrittr, ggplot2, glm2, cstidy, cstime, stringr
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, csdata, csmaps,
         ggrepel, plnr
 License: MIT + file LICENSE
-MD5sum: fbe7d4ab826bee33d5e4602a25404bb6
+MD5sum: ffb2a1308743ec5aac8f383e57e4720d
 NeedsCompilation: no
 
 Package: csdata
