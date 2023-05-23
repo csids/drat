@@ -76,11 +76,11 @@ Package: cstidy
 Version: 2023.5.23
 Depends: R (>= 3.5.0)
 Imports: data.table, magrittr, ggplot2, csdata, cstime, crayon, digest,
-        stringr, methods, qs, openssl
+        stringr, methods
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, gt, dplyr,
         purrr
 License: MIT + file LICENSE
-MD5sum: 9f608e9985de96626fbbe668de94cf45
+MD5sum: 0c13e803463be239eedd7d4790ad3a50
 NeedsCompilation: no
 
 Package: cstime
