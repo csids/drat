@@ -58,7 +58,7 @@ Imports: data.table, ggplot2, utils
 Suggests: testthat, knitr, rmarkdown, magrittr, ggrepel, leaflet, sf,
         csdata (>= 2023.5.22)
 License: MIT + file LICENSE
-MD5sum: a48d56ae34884aa90e712f200a5a8b2a
+MD5sum: 820faf3b3ad260498959c7dfb7254219
 NeedsCompilation: no
 
 Package: csstyle
