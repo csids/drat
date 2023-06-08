@@ -10,13 +10,13 @@ MD5sum: e11fe21a201994306f66da11efdc864c
 NeedsCompilation: no
 
 Package: covidnor
-Version: 2023.5.30
+Version: 2023.6.8
 Depends: R (>= 3.5.0)
 Imports: data.table
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, magrittr,
         ggplot2
 License: MIT + file LICENSE
-MD5sum: c99964db638bfe1a0ff5f0687c91a1c1
+MD5sum: baf5e8ff4e83d205d7cfa299676bc4a9
 NeedsCompilation: no
 
 Package: csalert
