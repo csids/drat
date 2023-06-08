@@ -83,13 +83,13 @@ MD5sum: cc41445543e46d34456912f4e6cbd23f
 NeedsCompilation: no
 
 Package: cstime
-Version: 2023.5.30
+Version: 2023.6.8
 Depends: R (>= 3.5.0)
 Imports: data.table, magrittr
 Suggests: rmarkdown, ggplot2, knitr, testthat (>= 3.0.0), readxl, glue,
         lubridate
 License: MIT + file LICENSE
-MD5sum: 7ff7444ab5de52cb0245adf8bbd21bc1
+MD5sum: 111b8734728e0b64cf8708f1236b9965
 NeedsCompilation: no
 
 Package: csutil
