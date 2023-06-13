@@ -23,10 +23,10 @@ Package: csalert
 Version: 2023.6.13
 Depends: R (>= 3.3.0)
 Imports: data.table, magrittr, ggplot2, glm2, cstidy, cstime, stringr
-Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, csdata, csmaps,
-        ggrepel, plnr
+Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, covidnor,
+        csdata, csmaps, ggrepel, plnr
 License: MIT + file LICENSE
-MD5sum: c70971c56b7aa0b59f97da29bf949687
+MD5sum: 9c5bcf98d0df9501c06e1fcab8cf3185
 NeedsCompilation: no
 
 Package: csdata
