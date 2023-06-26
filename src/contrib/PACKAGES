@@ -27,7 +27,7 @@ Imports: data.table, magrittr, ggplot2, glm2, cstidy, cstime,
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, covidnor,
         csdata, csmaps, csstyle, ggrepel, plnr, surveillance
 License: MIT + file LICENSE
-MD5sum: 9f58fbfbb6ecbbaadf1e902f7277f5f7
+MD5sum: cbbadfc3c7376634ad82d91809875f87
 NeedsCompilation: no
 
 Package: csdata
