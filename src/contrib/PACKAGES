@@ -134,6 +134,16 @@ License: MIT + file LICENSE
 MD5sum: 35692acb66029e13ce7a020d662b4c07
 NeedsCompilation: no
 
+Package: respiranor
+Version: 2023.12.6
+Depends: R (>= 3.5.0)
+Imports: data.table
+Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, magrittr,
+        ggplot2
+License: MIT + file LICENSE
+MD5sum: 7dab83c8ed1ea4b03b828bfce4ee42ee
+NeedsCompilation: no
+
 Package: sc
 Version: 8.0.3
 Depends: R (>= 4.1.0)
