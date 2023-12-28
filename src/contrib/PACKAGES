@@ -90,7 +90,7 @@ Imports: data.table, magrittr
 Suggests: rmarkdown, ggplot2, knitr, testthat (>= 3.0.0), readxl, glue,
         lubridate
 License: MIT + file LICENSE
-MD5sum: 45033e213f5aea3f3536c63028a4bc20
+MD5sum: 07095b0dbedafcd82a669b7ac85038a3
 NeedsCompilation: no
 
 Package: csutil
