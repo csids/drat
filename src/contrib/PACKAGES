@@ -145,13 +145,13 @@ MD5sum: 9213a335810f290a11b25e4d0777f5fa
 NeedsCompilation: no
 
 Package: respiranor
-Version: 2023.12.6
+Version: 2024.5.27
 Depends: R (>= 3.5.0)
 Imports: data.table
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, magrittr,
         ggplot2
 License: MIT + file LICENSE
-MD5sum: 2eb689e6b5f7145bc737ba1bdc8c5a47
+MD5sum: a012ee10a012674a2308271784452431
 NeedsCompilation: no
 
 Package: sc
