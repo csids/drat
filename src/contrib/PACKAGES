@@ -19,6 +19,17 @@ License: MIT + file LICENSE
 MD5sum: baf5e8ff4e83d205d7cfa299676bc4a9
 NeedsCompilation: no
 
+Package: cs9
+Version: 2024.5.27
+Depends: R (>= 4.1.0)
+Imports: csdb, cstime (>= 2023.5.3), data.table, dplyr, fs, glue,
+        lubridate, magrittr, plnr (>= 2021.5.4), processx, progressr,
+        R6, rstudioapi, stats, stringr
+Suggests: testthat, knitr, usethis, rmarkdown, fhiplot
+License: MIT + file LICENSE
+MD5sum: 8089b4d1d56dede003ea6546ee4cb39a
+NeedsCompilation: no
+
 Package: csalert
 Version: 2024.5.27
 Depends: R (>= 3.3.0)
