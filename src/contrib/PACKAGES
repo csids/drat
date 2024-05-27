@@ -113,7 +113,7 @@ MD5sum: 82a2669579ab55633ad689530491ff5f
 NeedsCompilation: no
 
 Package: nowcast
-Version: 2023.12.6
+Version: 2024.5.27
 Depends: R (>= 3.5.0)
 Imports: data.table, magrittr, purrr, ggplot2, dplyr, pbs, dlnm,
         lubridate, mvmeta, tsModel, stats, lme4, arm, tibble, stringr,
@@ -121,7 +121,7 @@ Imports: data.table, magrittr, purrr, ggplot2, dplyr, pbs, dlnm,
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, fhidata,
         attrib, spltime
 License: MIT + file LICENSE
-MD5sum: 5d83f95762f1ed11666c3752a3cba104
+MD5sum: 38945ff2218c76416add81d716e39607
 NeedsCompilation: no
 
 Package: org
