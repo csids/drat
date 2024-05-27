@@ -63,13 +63,13 @@ MD5sum: db4eaae0ef93fecb87ea42c787f42a9e
 NeedsCompilation: no
 
 Package: csreport
-Version: 2024.1.2
+Version: 2024.5.27
 Depends: R (>= 3.3.0)
 Imports: csutil, data.table, DBI, dplyr, fs, ggplot2, magrittr, odbc,
         R6, stringr, uuid
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue
 License: MIT + file LICENSE
-MD5sum: 004f98781a438af975c5bf2fe7e7314c
+MD5sum: 683dcc21dd1550ffc1188f5478d4ac11
 NeedsCompilation: no
 
 Package: csstyle
