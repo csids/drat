@@ -27,7 +27,7 @@ Imports: csdb, cstime (>= 2023.5.3), data.table, dplyr, fs, glue,
         R6, rstudioapi, stats, stringr
 Suggests: testthat, knitr, usethis, rmarkdown, fhiplot
 License: MIT + file LICENSE
-MD5sum: de9addf614e3cb281fdf00fd56939a6d
+MD5sum: d4ebd0f6b865c35229c95c3b663f30ee
 NeedsCompilation: no
 
 Package: csalert
