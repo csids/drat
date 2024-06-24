@@ -36,9 +36,9 @@ Depends: R (>= 3.3.0)
 Imports: data.table, magrittr, ggplot2, glm2, cstidy, cstime,
         lubridate, stringr, surveillance
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, covidnor,
-        csdata, csmaps, csstyle, ggrepel, plnr
+        csdata, csmaps, ggrepel, plnr
 License: MIT + file LICENSE
-MD5sum: 2f7d50dfc61d6817878a71ade6ad5159
+MD5sum: 54d564b9ee56e2006fa0943bda8c8698
 NeedsCompilation: no
 
 Package: csdata
