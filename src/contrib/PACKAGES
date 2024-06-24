@@ -31,14 +31,14 @@ MD5sum: 327fda996263fa950121d93f9ed9aa93
 NeedsCompilation: no
 
 Package: csalert
-Version: 2024.5.27
+Version: 2024.6.24
 Depends: R (>= 3.3.0)
 Imports: data.table, magrittr, ggplot2, glm2, cstidy, cstime,
-        lubridate, stringr
+        lubridate, stringr, surveillance
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, covidnor,
-        csdata, csmaps, csstyle, ggrepel, plnr, surveillance
+        csdata, csmaps, csstyle, ggrepel, plnr
 License: MIT + file LICENSE
-MD5sum: e34dbdae20a424804a9b59381b54f3c0
+MD5sum: f010415071d024992e8394d2d9babb1c
 NeedsCompilation: no
 
 Package: csdata
