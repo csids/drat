@@ -84,13 +84,13 @@ MD5sum: 683dcc21dd1550ffc1188f5478d4ac11
 NeedsCompilation: no
 
 Package: csstyle
-Version: 2024.9.20
+Version: 2024.9.25
 Depends: R (>= 3.3.0)
 Imports: data.table, ggplot2, glue, magrittr, rstudioapi, stringr,
         csdata
 Suggests: testthat, knitr, rmarkdown, lubridate
 License: MIT + file LICENSE
-MD5sum: 049ed8e044a76e82ed523650185dd452
+MD5sum: be13b3f3a2b8f529ea64568eb9858cdf
 NeedsCompilation: no
 
 Package: cstidy
