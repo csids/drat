@@ -136,12 +136,12 @@ MD5sum: 38945ff2218c76416add81d716e39607
 NeedsCompilation: no
 
 Package: org
-Version: 2024.6.12
+Version: 2025.3.10
 Depends: R (>= 3.3.0)
 Imports: utils
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue
 License: MIT + file LICENSE
-MD5sum: 985d44b16587eb08946d40e9c7d09a29
+MD5sum: d5e8ecd51c1cab8a2c56cc547ad2190b
 NeedsCompilation: no
 
 Package: plnr
