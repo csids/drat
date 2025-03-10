@@ -141,7 +141,7 @@ Depends: R (>= 3.3.0)
 Imports: utils
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue
 License: MIT + file LICENSE
-MD5sum: d288c0c7debf8418cc3deb50de0736f1
+MD5sum: b2aa025511d3dee94655a814d8addfa9
 NeedsCompilation: no
 
 Package: plnr
