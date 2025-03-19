@@ -152,7 +152,7 @@ Imports: data.table, digest, fs, foreach, glue, pbmcapply, purrr, R6,
 Suggests: testthat, knitr, rmarkdown, progressr, ggplot2, readxl,
         magrittr
 License: MIT + file LICENSE
-MD5sum: 69c955f9979d8d3c7dc7c95866900d51
+MD5sum: 6582e88e2f5ac05784eadfac1943c550
 NeedsCompilation: no
 
 Package: respiranor
