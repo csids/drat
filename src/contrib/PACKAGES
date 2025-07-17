@@ -60,7 +60,7 @@ Imports: csutil, data.table, DBI, dplyr, fs, ggplot2, magrittr, odbc,
         R6, stringr, uuid, glue
 Suggests: testthat, knitr, rmarkdown, rstudioapi, digest, crayon
 License: MIT + file LICENSE
-MD5sum: 1987b2cf08b80eb8c9c9287dbffc219e
+MD5sum: 097776e598383ddd8208854863476a1f
 NeedsCompilation: no
 
 Package: csmaps
