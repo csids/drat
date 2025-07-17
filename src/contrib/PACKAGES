@@ -55,12 +55,12 @@ NeedsCompilation: no
 
 Package: csdb
 Version: 2025.7.17
-Depends: R (>= 3.3.0)
-Imports: csutil, data.table, DBI, dplyr, fs, ggplot2, magrittr, odbc,
-        R6, stringr, uuid, glue
+Depends: R (>= 4.1.0)
+Imports: csutil, data.table, DBI, dplyr, fs, ggplot2, odbc, R6,
+        stringr, uuid, glue
 Suggests: testthat, knitr, rmarkdown, rstudioapi, digest, crayon
 License: MIT + file LICENSE
-MD5sum: de5120602c315e434a3f83ef60576fd1
+MD5sum: 933e4781189ec16ee19ddc570a47407a
 NeedsCompilation: no
 
 Package: csmaps
