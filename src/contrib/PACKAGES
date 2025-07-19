@@ -54,13 +54,13 @@ MD5sum: 7ec743b57474bb12838dc08fe85e938a
 NeedsCompilation: no
 
 Package: csdb
-Version: 2025.7.17
+Version: 2025.7.19
 Depends: R (>= 4.1.0)
-Imports: csutil, data.table, DBI, dplyr, fs, ggplot2, odbc, R6,
-        stringr, uuid, glue
+Imports: csutil, data.table, DBI, dplyr, fs, ggplot2, glue, methods,
+        odbc, R6, S7, stringr, uuid
 Suggests: testthat, knitr, rmarkdown, rstudioapi, digest, crayon
 License: MIT + file LICENSE
-MD5sum: 4e7662e2e9cf9e5d5ef371cf3f3e630a
+MD5sum: 8129dcc6dc8901ed4d37d5ce042243e4
 NeedsCompilation: no
 
 Package: csmaps
