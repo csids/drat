@@ -90,7 +90,7 @@ Imports: data.table, ggplot2, glue, magrittr, rstudioapi, stringr,
         csdata
 Suggests: testthat, knitr, rmarkdown, lubridate
 License: MIT + file LICENSE
-MD5sum: 1c759f61fe43ba5038da19c3f4078cf5
+MD5sum: 14c7f6fc20add570660d56727bab4a77
 NeedsCompilation: no
 
 Package: cstidy
