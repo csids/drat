@@ -145,14 +145,14 @@ MD5sum: 7254476752c340a28b0a1ba47e6386a6
 NeedsCompilation: no
 
 Package: plnr
-Version: 2025.3.19
+Version: 2025.8.20
 Depends: R (>= 3.3.0)
 Imports: data.table, digest, fs, foreach, glue, pbmcapply, purrr, R6,
         stats, usethis, utils, uuid
 Suggests: testthat, knitr, rmarkdown, progressr, ggplot2, readxl,
         magrittr
 License: MIT + file LICENSE
-MD5sum: ab58e52a3aa456510fcb3830d08d9d29
+MD5sum: 278f581a7d31eeee04e96c9551c009c9
 NeedsCompilation: no
 
 Package: respiranor
