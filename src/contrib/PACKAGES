@@ -50,7 +50,7 @@ Suggests: testthat, broom, crayon, dplyr, forcats, fs, geojsonio,
         methods, ncdf4, purrr, readxl, reshape2, rmarkdown, rmapshaper,
         rstudioapi, stringr, sp, sf, tidyr, zoo
 License: MIT + file LICENSE
-MD5sum: 7bcc0a6a5d4e3e6bae3e83cc6dd320f6
+MD5sum: 3e195fb7d1e2812362561ffc755dc9ae
 NeedsCompilation: no
 
 Package: csdb
