@@ -101,7 +101,7 @@ Imports: data.table, magrittr, ggplot2, csdata, cstime, crayon, digest,
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue, gt, dplyr,
         purrr
 License: MIT + file LICENSE
-MD5sum: d14b0e8ad5af9817986513bb57435b2f
+MD5sum: 69dee1d9d0541466fc235e16aa72f294
 NeedsCompilation: no
 
 Package: cstime
