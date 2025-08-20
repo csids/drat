@@ -20,14 +20,14 @@ MD5sum: baf5e8ff4e83d205d7cfa299676bc4a9
 NeedsCompilation: no
 
 Package: cs9
-Version: 2025.7.31
+Version: 2025.8.20
 Depends: R (>= 4.1.0)
 Imports: csdb, cstime (>= 2023.5.3), data.table, dplyr, fs, glue,
         lubridate, magrittr, plnr (>= 2021.5.4), processx, progressr,
         R6, rstudioapi, stats, stringr
-Suggests: testthat, knitr, usethis, rmarkdown, fhiplot
+Suggests: testthat, knitr, usethis, rmarkdown, csstyle
 License: MIT + file LICENSE
-MD5sum: f957fadf0ca73091cf810166a06a94bd
+MD5sum: 89d17200df645e39e8f3651a11d744e0
 NeedsCompilation: no
 
 Package: csalert
