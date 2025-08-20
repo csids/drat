@@ -111,7 +111,7 @@ Imports: data.table, magrittr
 Suggests: rmarkdown, ggplot2, knitr, testthat (>= 3.0.0), readxl, glue,
         lubridate
 License: MIT + file LICENSE
-MD5sum: 78d27c2f545357e73a985ff9434f8e47
+MD5sum: ce7505e1fe74e1d3c4d3f151fd3ff891
 NeedsCompilation: no
 
 Package: csutil
