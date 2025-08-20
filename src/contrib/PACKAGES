@@ -120,7 +120,7 @@ Depends: R (>= 3.3.0)
 Imports: data.table, magrittr, ggplot2
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue
 License: MIT + file LICENSE
-MD5sum: 5da89f3dfcc48bd9ec7f72d2051f1217
+MD5sum: 41e2f16caa1103c9f88d05be9694bed7
 NeedsCompilation: no
 
 Package: nowcast
