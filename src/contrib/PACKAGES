@@ -70,7 +70,7 @@ Imports: data.table, ggplot2, utils
 Suggests: testthat, knitr, rmarkdown, magrittr, ggrepel, leaflet, sf,
         csdata (>= 2023.5.22)
 License: MIT + file LICENSE
-MD5sum: 21585f5f41a0b735afcc06b858a71bef
+MD5sum: fb0db31eb6a66d13246dceac3dd8980d
 NeedsCompilation: no
 
 Package: csreport
